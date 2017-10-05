@@ -14,3 +14,4 @@ RUN chmod 755 /run.sh
 EXPOSE 22
 
 CMD ["/run.sh"]
+#cool
