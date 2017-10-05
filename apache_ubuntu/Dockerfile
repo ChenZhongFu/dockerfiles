@@ -1,4 +1,4 @@
-FROM sshd:dockerfile
+FROM ubuntu:14.04
 
 MAINTAINER chen
 
